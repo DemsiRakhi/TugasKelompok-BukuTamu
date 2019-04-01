@@ -1,8 +1,8 @@
 # TugasKelompok-BukuTamu
 Nama Anggota Kelompok :
-Muhammad Zidan Rakhi Ismed / 26
-Muhammad Rizky A.H / 25
-Ghufron Ardiansyah / 15
+1. Muhammad Zidan Rakhi Ismed / 26
+2. Muhammad Rizky A.H / 25
+3. Ghufron Ardiansyah / 15
 
 Form Buku Tamu
 ![alt text](https://github.com/DemsiRakhi/TugasKelompok-BukuTamu/blob/master/BukuTamu/SSFormBukutamu.PNG)
